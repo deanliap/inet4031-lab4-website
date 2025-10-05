@@ -8,9 +8,10 @@ Up until this point, our Lab activities have been accomplished by doing them on 
 
 In this activity we explore the concept of "servers."  Which typically aren't located where we are.
 
-We have to connect to them remotely
+We have to connect to them remotely. 
 
 This Lab explores that concept.
 
+This lab also explores HTML files. We must describe HTML files, then create our own custom one. 
 
 
